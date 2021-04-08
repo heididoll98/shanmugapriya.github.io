@@ -1,0 +1,141 @@
+body {
+    font-family: "Avenir Next";
+  }
+  li {
+    list-style: none;
+  }
+  
+  
+  .header {
+    background-color: midnightblue;
+    color: #fff;
+    height: 90px;
+  }
+  .header img{
+    height: 1200px;
+    width:1250px;
+    opacity:25%;
+  }
+  
+  .header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+  }
+  
+  .header-list li {
+    float: left;
+    padding: 33px 20px;
+    list-style: none;
+  }
+  .header-list img{
+    padding-top: 30px;
+    padding-right: 20px;
+    height:35px;
+    width:35px;
+    shape-image-threshold:inherit;
+  }
+
+  
+  .main {
+    padding: 40px 20px;
+  }
+  
+  .copy-container h1 {
+    font-size:30 ;
+    font-style: italic;
+    color: red;
+    text-align: center;
+  }
+  copy-container img {
+    height:60px;
+    width:60px;
+  }
+  
+  .copy-container h2{
+    font-size: 25px;
+    color: darkgreen;
+    text-align: center;
+
+  }
+  .copy-container p{
+    font-size: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+  }
+  .span{
+    color:#eb9d0d;
+  }
+  .copy-container h3 { 
+    font-size: 20px;
+    color: darkgreen;
+    text-align: center;
+
+  }
+  .copy-container h4{
+    font-size:20px;
+    color :darkgreen;
+    text-align: center;
+  }
+  .copy-container h5 { 
+    font-size: 20px;
+    color: darkgreen;
+    text-align: center;
+
+  }
+  .copy-container li{
+    font-size:16px;
+    text-align: center;
+
+  }
+  .copy-container h6{
+    font-size: 20px;
+    color: darkgreen;
+    text-align: center;
+
+  }
+  .copy-container img{
+    padding-left:570px;
+    margin:center;
+    height:60px;
+    width:60px;
+    float:center;
+    vertical-align:middle;
+
+  }
+  .footer {
+    background-color: #081691;
+    color: #fff;
+    height: 50px;
+    width:1150px;
+    padding:40px;
+  }
+  
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+  }
+  
+  .footer-list {
+    float: right;
+  }
+  
+  .footer-list li {
+    padding-bottom: 20px;
+  }
+
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+    
+    
